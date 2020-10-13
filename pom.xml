@@ -10,7 +10,7 @@
     <properties>
         <source.version>13</source.version>
         <target.version>13</target.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <appium.version>7.0.0</appium.version>
     </properties>
     <dependencies>
